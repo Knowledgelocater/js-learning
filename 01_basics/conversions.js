@@ -10,4 +10,8 @@ console.log(digitNum);
 
 // "33" => 33
 // "33ab" => NAN
-// true =
+// true => 1 // false => 0
+
+// 1 => true  // 0 => false
+// "" => false
+// "ram" => true
